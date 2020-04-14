@@ -1,0 +1,41 @@
+div #ref {
+  background-color: blue;
+}
+
+div #qualn {
+  background-color: darkkhaki;
+}
+
+div #skill {
+  background-color: blueviolet;
+}
+
+div #summary {
+  background-color: chartreuse;
+}
+
+div #profxp {
+  background-color: cornflowerblue;
+}
+
+div #btn {
+  padding-top: 10px;
+}
+
+div .main {
+  margin-left: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-right: 10px;
+  padding-bottom: 20px;
+  float: inline-end;
+  background-color: silver;
+  box-shadow: 10px 10px 5px grey;
+}
+
+button {
+  align-self: center;
+  height: 36px;
+  width: 166px;
+  box-shadow: 10px 10px 5px grey;
+}
